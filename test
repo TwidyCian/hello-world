@@ -1,0 +1,8 @@
+#so far this isn't very exciting.
+def Hello()
+  print('Hello World')
+  
+def excited(x)
+  print(x+'!!!!')
+  
+excited(Hello())
